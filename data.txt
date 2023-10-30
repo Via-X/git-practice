@@ -2,3 +2,5 @@ Name: Ironhacker
 Age: 45
 Favorite Color: Green
 Favorite Quote:  "The sun rises the sun falls, the moon doesn't move at all."
+Favorite City: Miami
+Favorite Car: Tesla
